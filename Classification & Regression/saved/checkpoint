@@ -1,0 +1,2 @@
+model_checkpoint_path: "smallnorb_rwd0.0e+00_rdp0.5_rbn0_daug0_cnn2_net.chk"
+all_model_checkpoint_paths: "smallnorb_rwd0.0e+00_rdp0.5_rbn0_daug0_cnn2_net.chk"
